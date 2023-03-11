@@ -7,7 +7,7 @@ Audio is routed through the default audio output.
 
 - Connects to the Twitch IRC server using the `twitchio` library.
 - Uses the Google TTS API to convert messages in chat to audio content.
-- Plays the audio content through the bot's audio output using the `pygame` library.
+- Plays the audio content form chat through the bot's audio output using the `pygame` library.
 - Responds to the `?hello` command with a greeting in chat.
 
 ## Installation
