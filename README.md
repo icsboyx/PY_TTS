@@ -38,4 +38,4 @@ This project was inspired by the Twitch channel of [Prof. Andrea Pollini](https:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://www.mit.edu/~amini/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://www.mit.edu/~amini/LICENSE.md) for details.
